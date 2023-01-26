@@ -2,7 +2,7 @@
 
 ## How to run this project
 - clone this project
-- give this command ``` npm i ``` and ``` node .\report.js ```
+- Give this command ``` npm i ``` and ``` node .\report.js ```
 
 ## Technology used:
 - Postman
