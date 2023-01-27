@@ -2,7 +2,8 @@
 
 ## How to run this project
 - clone this project
-- Give this command ``` npm i ``` and ``` node .\report.js ```
+- Open with any code editor / Command Shell
+- Give this following command ``` npm i ``` and ``` node .\report.js ```
 
 ## Technology used:
 - Postman
